@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding2>
+	<Mode mode="BUILD">
+		<Arg string="C:/Users/arkad/Documents/Path of Building (PoE2)/Builds/0.4/crimson coach race.xml"/>
+		<Arg string="crimson coach race"/>
+	</Mode>
+	<Accounts lastToken="0b719cb0b7bc5d900613be5df00a38bf61ffe0c5" lastRefreshToken="b1f53ecb3f69900318924e938c8b8dcf3a970e2b" tokenExpiry="1777960179" lastRealm="PoE2"/>
+	<SharedItems/>
+	<Misc connectionProtocol="nil" colorPositive="^x33FF77" colorNegative="^xDD0022" colorHighlight="^xFF0000" invertSliderScrollDirection="false" showThousandsSeparators="true" edgeSearchHighlight="true" thousandsSeparator="," showAllItemAffixes="true" defaultGemQuality="0" defaultCharLevel="1" defaultItemAffixQuality="0.5" defaultItemQuality="20" showTitlebarName="true" dpiScaleOverridePercent="0" showWarnings="true" slotOnlyTooltips="true" notSupportedModTooltips="true" disableDevAutoSave="false" POESESSID="" showFlavourText="true" showAnimations="true" betaTest="false" lastExportWebsite="POBBin" nodePowerTheme="RED/BLUE" buildSortMode="NAME" decimalSeparator="."/>
+</PathOfBuilding2>

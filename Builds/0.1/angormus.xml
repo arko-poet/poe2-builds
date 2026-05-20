@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding2>
+	<Build level="63" className="Warrior" ascendClassName="None" targetVersion="0_1" characterLevelAutoMode="true" mainSocketGroup="1" viewMode="NOTES">
+		<PlayerStat stat="AverageDamage" value="8.235"/>
+		<PlayerStat stat="AverageBurstDamage" value="8.235"/>
+		<PlayerStat stat="Speed" value="1.188"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="0"/>
+		<PlayerStat stat="CritChance" value="0"/>
+		<PlayerStat stat="CritMultiplier" value="0"/>
+		<PlayerStat stat="HitChance" value="100"/>
+		<PlayerStat stat="TotalDPS" value="9.78318"/>
+		<PlayerStat stat="TotalDot" value="0"/>
+		<PlayerStat stat="WithBleedDPS" value="9.78318"/>
+		<PlayerStat stat="IgniteDPS" value="0.00072939293895701"/>
+		<PlayerStat stat="WithIgniteDPS" value="9.783909392939"/>
+		<PlayerStat stat="WithPoisonDPS" value="9.78318"/>
+		<PlayerStat stat="TotalDotDPS" value="0.00072939293895701"/>
+		<PlayerStat stat="CullingDPS" value="0"/>
+		<PlayerStat stat="ReservationDPS" value="0"/>
+		<PlayerStat stat="CombinedDPS" value="9.783909392939"/>
+		<PlayerStat stat="ManaCost" value="0"/>
+		<PlayerStat stat="ManaPercentCost" value="0"/>
+		<PlayerStat stat="ManaPerSecondCost" value="0"/>
+		<PlayerStat stat="ManaPercentPerSecondCost" value="0"/>
+		<PlayerStat stat="LifeCost" value="0"/>
+		<PlayerStat stat="LifePercentCost" value="0"/>
+		<PlayerStat stat="LifePerSecondCost" value="0"/>
+		<PlayerStat stat="LifePercentPerSecondCost" value="0"/>
+		<PlayerStat stat="ESCost" value="0"/>
+		<PlayerStat stat="ESPerSecondCost" value="0"/>
+		<PlayerStat stat="ESPercentPerSecondCost" value="0"/>
+		<PlayerStat stat="RageCost" value="0"/>
+		<PlayerStat stat="SoulCost" value="0"/>
+		<PlayerStat stat="Str" value="194"/>
+		<PlayerStat stat="Dex" value="12"/>
+		<PlayerStat stat="Int" value="12"/>
+		<PlayerStat stat="Devotion" value="0"/>
+		<PlayerStat stat="TotalEHP" value="986.20689655172"/>
+		<PlayerStat stat="PhysicalMaximumHitTaken" value="1274"/>
+		<PlayerStat stat="LightningMaximumHitTaken" value="910"/>
+		<PlayerStat stat="FireMaximumHitTaken" value="910"/>
+		<PlayerStat stat="ColdMaximumHitTaken" value="910"/>
+		<PlayerStat stat="ChaosMaximumHitTaken" value="1274"/>
+		<PlayerStat stat="MainHandAccuracy" value="246"/>
+		<PlayerStat stat="Darkness" value="0"/>
+		<PlayerStat stat="ReservedDarkness" value="0"/>
+		<PlayerStat stat="Life" value="1274"/>
+		<PlayerStat stat="Spec:LifeInc" value="8"/>
+		<PlayerStat stat="LifeUnreserved" value="1274"/>
+		<PlayerStat stat="LifeRecoverable" value="1274"/>
+		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
+		<PlayerStat stat="LifeRegenRecovery" value="0"/>
+		<PlayerStat stat="LifeLeechGainRate" value="0"/>
+		<PlayerStat stat="Mana" value="1"/>
+		<PlayerStat stat="Spec:ManaInc" value="-15"/>
+		<PlayerStat stat="ManaUnreserved" value="1"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="100"/>
+		<PlayerStat stat="ManaRegenRecovery" value="0"/>
+		<PlayerStat stat="ManaLeechGainRate" value="0"/>
+		<PlayerStat stat="Spirit" value="100"/>
+		<PlayerStat stat="SpiritUnreserved" value="100"/>
+		<PlayerStat stat="SpiritUnreservedPercent" value="100"/>
+		<PlayerStat stat="EnergyShield" value="0"/>
+		<PlayerStat stat="EnergyShieldRecoveryCap" value="0"/>
+		<PlayerStat stat="Spec:EnergyShieldInc" value="0"/>
+		<PlayerStat stat="EnergyShieldRegenRecovery" value="0"/>
+		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
+		<PlayerStat stat="RageRegenRecovery" value="0"/>
+		<PlayerStat stat="Evasion" value="162"/>
+		<PlayerStat stat="Spec:EvasionInc" value="0"/>
+		<PlayerStat stat="MeleeEvadeChance" value="0"/>
+		<PlayerStat stat="ProjectileEvadeChance" value="0"/>
+		<PlayerStat stat="Armour" value="0"/>
+		<PlayerStat stat="Spec:ArmourInc" value="0"/>
+		<PlayerStat stat="PhysicalDamageReduction" value="0"/>
+		<PlayerStat stat="EffectiveBlockChance" value="0"/>
+		<PlayerStat stat="EffectiveSpellBlockChance" value="0"/>
+		<PlayerStat stat="AttackDodgeChance" value="0"/>
+		<PlayerStat stat="SpellDodgeChance" value="0"/>
+		<PlayerStat stat="EffectiveSpellSuppressionChance" value="0"/>
+		<PlayerStat stat="FireResist" value="-40"/>
+		<PlayerStat stat="FireResistOverCap" value="0"/>
+		<PlayerStat stat="ColdResist" value="-40"/>
+		<PlayerStat stat="ColdResistOverCap" value="0"/>
+		<PlayerStat stat="LightningResist" value="-40"/>
+		<PlayerStat stat="LightningResistOverCap" value="0"/>
+		<PlayerStat stat="ChaosResist" value="0"/>
+		<PlayerStat stat="ChaosResistOverCap" value="0"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="1"/>
+		<PlayerStat stat="FullDPS" value="0"/>
+		<PlayerStat stat="FullDotDPS" value="0"/>
+		<PlayerStat stat="PowerCharges" value="0"/>
+		<PlayerStat stat="PowerChargesMax" value="3"/>
+		<PlayerStat stat="FrenzyCharges" value="0"/>
+		<PlayerStat stat="FrenzyChargesMax" value="3"/>
+		<PlayerStat stat="EnduranceCharges" value="0"/>
+		<PlayerStat stat="EnduranceChargesMax" value="3"/>
+		<Buffs combatList="" buffList="" curseList=""/>
+		<TimelessData devotionVariant2="1" searchListFallback="" searchList="" socketFilterDistance="0" devotionVariant1="1"/>
+	</Build>
+	<Import exportParty="false"/>
+	<Party destination="All" ShowAdvanceTools="false" append="false"/>
+	<Tree activeSpec="6">
+		<Spec masteryEffects="" title="Act 1 - Level 14" ascendClassId="0" nodes="55473,54811,33556,34210,58528,64939,47175,5710,46325,19011,26092,30123,3936,27373,64284,16725,43164,45363" secondaryAscendClassId="nil" treeVersion="0_1" classId="1">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgEAEdix1huDFIWi5KD9qxZOtPVKQ2XsdasPYGrt-xxBVaicsTMAAA==
+			</URL>
+			<Sockets/>
+			<Overrides>
+				<AttributeOverride dexNodes="16725" intNodes="27373" strNodes="54811"/>
+			</Overrides>
+		</Spec>
+		<Spec masteryEffects="" title="Act 2 - Level 20" ascendClassId="0" nodes="55473,54811,33556,34210,58528,52392,64939,52298,64284,44017,47175,26092,5710,46325,19011,53719,4527,30123,3936,57703,45363,16725,43164,27373" secondaryAscendClassId="nil" treeVersion="0_1" classId="1">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgEAF9ix1huDFIWi5KDMqP2rzEr7HKvxZewWTrT1SkPR1xGvdasPYOFnsTNBVaicau0AAA==
+			</URL>
+			<WeaponSet1 nodes="52392"/>
+			<Sockets/>
+			<Overrides>
+				<AttributeOverride dexNodes="16725" intNodes="27373" strNodes="54811,4527,57703,53719,52298"/>
+			</Overrides>
+		</Spec>
+		<Spec masteryEffects="" title="Act 2 - Level 25" ascendClassId="0" nodes="44017,33556,36027,58528,64939,47175,46325,19011,3936,57703,53719,43164,55473,54811,18505,34210,53405,52392,52298,18073,26798,5710,9638,4527,16725,45090,30123,39083,45363,64284,26092,27373,63114" secondaryAscendClassId="nil" treeVersion="0_1" classId="1">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgEAIKvxgxSMu-Sg_au09UpDD2DhZ9HXqJzYsdYbSEmFotCdzKjMSkaZaK4WTiWmEa9BVbAidauYq7Ez-xxl7Grt9ooAAA==
+			</URL>
+			<WeaponSet1 nodes="36027,18505,52392,18073,45090"/>
+			<Sockets/>
+			<Overrides>
+				<AttributeOverride dexNodes="16725" intNodes="27373" strNodes="54811,63114,53405,57703,53719,52298,4527"/>
+			</Overrides>
+		</Spec>
+		<Spec masteryEffects="" title="Act 3 - Level 40" ascendClassId="0" nodes="5049,64939,44017,25374,33169,24880,33556,36027,58528,48670,43164,59767,25482,48006,27108,64443,42177,10474,47175,45969,3936,46325,19011,4527,27726,53589,53089,57703,53719,32416,6529,26798,9638,34210,55473,54811,7721,53785,18505,47796,54232,36044,53405,52392,55478,16168,52298,16626,23307,49231,18073,20645,5710,38501,27373,54485,45090,30123,63114,39083,64284,16725,26092,45363" secondaryAscendClassId="nil" treeVersion="0_1" classId="1">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgEAPxO5_aur8WMegZFhMIMUjLvkoL4eqJzpd2OKu4Zp5Pu7pMEo6rORD2C09UpDEa9sTtFVz2HhZ9HXfqAZgWiuJaaFotix1hseKdIZSEm6tNPYjMzQncyo2LY_KMxKQPJbC8BPRplQpRZOlmVq7dTVsCJ1q_aKmKv7HEFVZeyxMwAA
+			</URL>
+			<WeaponSet1 nodes="36027,59767,64443,10474,53089,53785,18505,52392,16626,18073,20645,45090"/>
+			<WeaponSet2 nodes="5049,25374,33169,24880,48670,27108,42177,45969,53589,47796,49231,38501"/>
+			<Sockets/>
+			<Overrides>
+				<AttributeOverride dexNodes="16725" intNodes="27373" strNodes="54232,54811,53405,16168,52298,23307,45969,48670,4527,33169,53589,25374,57703,53719,63114"/>
+			</Overrides>
+		</Spec>
+		<Spec masteryEffects="" title="Act 1 Cruel - Level 52" ascendClassId="0" nodes="5049,45992,33556,36027,25482,27108,26725,47175,45969,19011,3936,3446,39083,6529,54232,27726,32349,27082,34210,52392,16626,60620,49231,9638,20645,32416,27373,30123,16725,44017,58528,59767,64939,21387,42177,51702,54485,46325,53589,53089,57703,45363,48006,43164,18505,47796,61472,18073,54811,55473,10474,53719,53785,24880,36044,53405,25374,55478,16168,52298,48670,23307,33169,17029,63114,5710,38501,4527,24646,45090,64443,26798,13075,64284,26092,7721,61409" secondaryAscendClassId="nil" treeVersion="0_1" classId="1">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgEATBO5s6iDFIy7Y4pp5Ghls5FKQw9gDXaYqxmB09hsTn5dacqFosyoQPLszMBPJaZQpX6gau11q0FVq_HkoOl3_atTi6TByfbU1bT10VXPYeFnsTO7hqicSEm6tPAgRpnWG9ixKOrR19IZYTCMzNCdYx7Ytj8ozEq-HlsLgZFChfaKFk6WZRGvYEawIvu7aK4zE_scZeweKe_hAAA=
+			</URL>
+			<WeaponSet1 nodes="36027,52392,16626,20645,59767,53089,18505,18073,10474,53785,45090,64443"/>
+			<WeaponSet2 nodes="5049,27108,45969,49231,42177,53589,47796,24880,25374,48670,33169,38501"/>
+			<Sockets/>
+			<Overrides>
+				<AttributeOverride dexNodes="16725" intNodes="27373" strNodes="54232,54811,27082,53405,16168,52298,21387,23307,45969,48670,4527,3446,33169,53589,25374,57703,53719,63114"/>
+			</Overrides>
+		</Spec>
+		<Spec masteryEffects="" title="A6 Finish" ascendClassId="0" nodes="30141,18496,27296,33556,36027,25482,46384,38707,49952,47175,45327,6923,55190,36163,3936,3446,39083,13893,55473,11275,32349,18505,34210,52392,53329,59767,16626,3988,53030,47191,26798,55888,27581,53443,24630,42390,30123,50561,18073,13856,63114,31295,28982,12418,47263,44017,18448,1200,57703,10474,27082,23307,32071,59785,9352,16725,64939,26725,21387,33978,29611,54485,1087,10681,46325,3601,13075,19674,15522,53089,30390,45363,64724,43164,41768,59777,50510,18746,54811,53527,53719,61409,53785,51749,36044,53405,24430,11525,10251,52298,9638,18684,7204,27373,17348,5710,20645,4527,24646,45090,64443,32474,41493,64284,26092,19011,8554" secondaryAscendClassId="nil" treeVersion="0_1" classId="1">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgEAanW9SEBqoIMUjLtjirUwlzPDILEPGwvXlo1DD2ANdpirNkXYsSwLfl1ISYWizKjQUel3QPIPlM8muFdortpQa73Qw2A2pZZ1q8WBRpk2IPaKej9xNjCCuJ-r8UgQBLDhZyjqacpbC31H6YkkiEFV_atoZVOLhLpzq9TVBD8pubT1DhEzE0zaPKLPYXa2sTP81KicoyjpgcVOSTrWG9EX0dfv4dIZyiWMzNCdX24tBSgLzEolpkj8HCRq7UPEFk5QpRGvYEawIvu7ftqiFfscZexKQyFqAAA=
+			</URL>
+			<WeaponSet1 nodes="46384,45327,13893,16626,55888,27581,42390,31295,32071,9352,1087,10681,19674,53089,50510,18746,53527,10251,7204,41493"/>
+			<WeaponSet2 nodes="18496,38707,49952,53329,3988,53030,47191,24630,50561,13856,12418,47263,18448,3601,15522,64724,24430,11525,17348,8554"/>
+			<Sockets/>
+			<Overrides>
+				<AttributeOverride dexNodes="16725" intNodes="27373,38707,18448,47263" strNodes="59777,30141,27296,27082,53405,54811,52298,23307,29611,63114,32474,1200,4527,28982,57703,59785,21387,3446,53719,41768"/>
+			</Overrides>
+		</Spec>
+	</Tree>
+	<Notes>
+		Major Credit to ^xAF6025Lundburgerr^7 at ^xD02090twitch.tv/lundburgerr^7 lots of tech and the later build comes from him. You can find his end game build guide here: ^xD02090maxroll.gg/poe2/pob/du6bl0zq^7
+
+Made by ^xAF6025Angormus^7 at ^xD02090twitch.tv/angormus^7
+
+This guide is only meant to guide to towards an A6 League Start %
+
+^xADAA47Relevant for PoE2 Patch 0.1, 0.2 depends on the patch notes^7.
+
+^xD02090Priority of Early Supports^7:
+
+Conc Effect -&gt; Impact Shockwaves -&gt; Martial Tempo -&gt; Magnified Effect -&gt; Window of Opportunity -&gt; Overpower -&gt; Unbreakable
+
+^xD02090Skills^7: ^x8888FF
+Mace Strike ^7with ^x8888FFConc Effect / Martial Tempo^7, stops being useful outside of small hits to finish off a rare after level 14. Can slot in ^x8888FFCulling Strike^7 later.
+^x8888FFRolling Slam^7^7 with ^x8888FFConc Effect / Overpower^7 (to deal more stun buildup when needed) and ^x8888FFMartial Tempo / Unbreakable^7 for better clear. This is to prime ^x8888FFBoneshatter^7 procs.
+^x8888FFBoneshatter^7 with ^x8888FFImpact Shockwaves^7 &amp; ^x8888FFMagnified Effect^7, next link will be ^x8888FFArmor Explosion^7 after you&apos;ve specced ^xE05030Shattering Blows^7, can use ^x8888FFFire Infusion^7 with early 2nd 4 link.
+^x8888FFShield Charge^7 for movement, can slot in ^x8888FFFire Infusion / Stomping Grounds^7 for decent damage, but only impactful early with extra support gem drops.
+^x8888FFInfernal Cry^7 with ^x8888FFPremeditation^7 &amp; ^x8888FFRaging Cr^7y.
+^x8888FFHerald of Ash^7 with ^x8888FFCannibalism^7 when possible, ^x8888FFCannibalism^7 is very good for sustain. ^x8888FFHerbalism^7 is also a good support.
+^x8888FFPerfect Strike^7 with ^x8888FFWindow of Opportunity^7 &amp; ^x8888FFConc Effect / Martial Tempo^7. Use ^x8888FFMartial Tempo^7 on bosses with small hitboxes or that move around a lot. 
+Can use ^x8888FFFire Infusion / Primal Armament^7 on bosses where you don&apos;t need ^x8888FFMartial Tempo^7 once it&apos;s 4 linked.
+^x8888FFScavenged Plating^7 with ^x8888FFPersistence ^7^7after you&apos;ve specced ^xB97123^xE05030Shattering Blows^7^7, throw Cannibalism over here if you want to use it before ^x70FF70Azak Bog^7 A3 Cruel spirit quest reward.
+^x8888FFLeap Slam^7 with ^x8888FFMartial Tempo^7 &amp; ^x8888FFUnbreakable / Overpower^7 used for movement and to prime ^x8888FFBoneshatter^7 procs. Later you can link it with ^x8888FFHoly Descent^7 and ^x8888FFMaim^7.
+^x8888FFHammer of the Gods^7 with ^x8888FFFist of War^7, ^x8888FFEternal Flame^7, &amp; ^x8888FFSearing Flame^7.
+
+You&apos;ll want a ^x8888FFFlammability^7 Setup in your second weapon swap with a ^x8888FFHammer of the Gods^7 spec (can use the same weapon/shield in Patch 0.2 for both). 
+Link ^x8888FFHeighted Curse, Arcane Tempo, ^7and^7 ^x8888FFFocused Curse^7^7 to ^x8888FFFlammability^7.
+^x8888FFOverwhelming Presence^7 can also be good later.
+
+^xD02090Act 1^7:
+
+^xADAA47Regex^7: &quot;speed|o stre|s: tw|ed bl|ed.+rec&quot;
+
+^x70FF70Riverbank^7: Get 1 hander &amp; shield to second weapon swap without holding shield. Position yourself in the &quot;nook&quot; after 1st stun on ^xAF6025Miller^7.
+
+^x70FF701st Town^7: Level up after clicking Renly, grab skill gem, and open shop without clicking out or Renly does his slow walk.
+^x70FF70Shop priority^7: 2Hander, dual 1Hander, and skill ^x8888FFFrost^7 ^x8888FFBomb^7 if neither. 
+Skill ^x8888FFBoneshatter^7 if 2 or 1 hander. 
+Check for MS boots, you&apos;ll stay level 2 if there&apos;s some, or hit level 3 by ^xAF6025Devourer^7 kill if none.
+
+^x70FF70Clearfell^7: If forced into ^x8888FFFrost Bomb^7, grab level 1 skill gem from chest for ^x8888FFBoneshatter^7. 
+Grab ^x70FF70Mud Burrow^7 CP and fight ^xAF6025Beira^7 for ^xB97123+10% cold res^7, ideally drag in as many wolves as possible to ^x8888FFBoneshatter^7 against her. 
+Grab ^x70FF70Grelwood^7 CP &amp; enter ^x70FF70Mud Burrow^7.
+
+^x70FF70Mud Burrow^7: CP nearish to start has a resettable blue pack, hatchery has lots of white items / wisdoms if lucky. Skill gem level 2 = ^x8888FFBoneshatter^7.
+^x70FF702nd Town^7: Support Gem from Renly fo^x8888FF^xC8C8C8r ^x8888FFConc Effect^7^7 in ^x8888FFMace Strike^7.
+^x70FF70Shop Priority^7: 2 Hander if none, MS boots, +str on anything to use ^x8888FFShield Charg^7^x8888FFe^7 at level 6, and then +dmg/IAS on gloves.
+
+^x70FF70Grelwood^7: Leave town through ^x70FF70Clearfell^7, CP over to ^x70FF70Grelwood^7 entrance. 
+Search for Witch&apos;s Hut. Grab medium life/mana flasks and kill her for support gem. Can drag mobs over to her to ^x8888FFBoneshatter^7.
+Support gem = ^x8888FFImpact Shockwaves^7 on ^x8888FFBoneshatter^7. 
+Head NE from Witch&apos;s hut first to avoid the giga deadend WP bot right layout. 
+Thinking with CPs, grab ^x70FF70Grim Tangle^7 &amp; ^x70FF70Grelwood^7 WPs before entering ^x70FF70The Red Vale^7.
+
+^x70FF70The Red Vale^7: Ideal level on enter is 4 with full medium flasks. 8 layout tells, 16 layouts, can know which one from entrance tile. Collecting big packs + open Refined/Rusted arms for chances at an Oak Greathammer.
+^xFFFF77White Felled Greatclub^7 = Need ^x8888FFConc^7 ^x8888FFEffect^7 in^x8888FF Rolling Slam^7 to prime^x8888FF Boneshatter^7.
+^xFFFF77White Oak Hammer^7 =^x8888FF Rolling Slam^7 no supports.
+Hit level 5-5.5 by ^xAF6025Rust King^7 kill. Drag over mobs to start off with a big ^x8888FFBoneshatter^7, same with his add phase. 
+Level 3 skill gem = ^x8888FFShield Charge^7
+
+^x70FF703rd/4th Town^7: Grab Spikes from Renly. WP to ^x70FF70Grelwood^7, dodge roll after each spike placement, and portal out. 
+Must talk to Una in town, buy ^xFFFF77wisdoms^7.
+^x70FF70Shop Priority^7: Great Oak Hammer with + dmg, ms boots, +str on anything, +dmg/ias on gloves. Dex on gear can be really good to keep chance to hit at 100% pre-^xE05030RT^7.
+
+^x70FF70Grim Tangle^7: Click Una after summoning her and reset at checkpoint to skip her song. Solutions based off entrance direction, side of the WP, &amp; early zone tells.
+Path to Druid, support gem = ^x8888FFMartial Tempo^7, keep in ^x8888FFRolling Slam^7 for clear, and^x8888FF Mace Strike^7 for single target.
+Hit level 6-6.5 by ^x70FF70Cemetery^7 enter.
+
+^xD02090Shield Charging^7: There is landing lag at the end of each ^x8888FFShield Charge^7, and when you hit monsters. 
+You want to dodge roll or tap ^x8888FFRaise Shield^7 at the end of each use, or dodge roll right before you would hit a monster to get past.
+
+^xADAA47You want to get a slim mace (best APS base 1 hander mace) for your shield charge / leap slam setup.^7
+
+^x70FF70Cemetery^7: Enter Draven&apos;s area first, exit, then enter Consort&apos;s area for level 9 zone.
+Create new instance when entering Draven&apos;s area to also get a level 9 zone, previously entered instance will only be level 8. 
+This gives you two chances for level 11 loot/weapons (^xFFFF77Forge Maul^7).
+Enter first secondary zone after hitting level 7. Search for ring along wall meanwhile.
+Support Gem in Consort area = ^x8888FFPremeditation^7 on ^x8888FFInfernal Cry^7
+
+^x70FF705th Tow^7^x70FF70n^7 ^x70FF70&amp; Lachlann^7: TP out of 2nd fight -&gt; WP to Cemetery to be at Lachlann after vendoring.
+^x70FF70Shop Priority^7^7: Great Oak Hammer with + dmg or ms boots if none still.
+Hit level 8-9 before ^xAF6025Lachlann^7 fight.
+Do not pick up the Count&apos;s Ring.
+Level 3 skill gem = ^x8888FFInfernal Cry^7, extra skill gem drops are ^x8888FFBoneshatter^7 then ^x8888FFRolling Slam^7.
+
+^x70FF70Hunting Grounds^7: Hit all checkpoints, save ^xAF6025Crowbell^7 for later (level 11 with Forge Maul or post-Una&apos;s Lute). 
+Support = ^x8888FFMagnified Effect^7 (+5 int on first stat node) in ^x8888FFBoneshatter^7.
+
+^x70FF70Farmlands^7 ^x70FF701.0^7: Lute rush -&gt; TP back, want to be level 10 here. Fish for ^xB97123^xFFFF77Greater Life Flask^7^7.
+
+^x70FF70Freythorn^7: Fish for ^xFFFF77Forge Maul / Greater Life Flask^7 at 11/12. When you find the boss ritual, dark swirls indicate the direction of the rituals.
+Take ^x8888FFHerald of Ash^7.
+
+^x70FF70Farmlands 2.0^7: WP in, CP to Una&apos;s Hut. Crop circle if found = level 4 skill gem for ^x8888FFRolling Slam^7.
+
+^x70FF70Village^7: Path to the ^xAF6025Executioner^7 indicates where the Smithing Tools are.
+Chest in Smithy contains a damage rune.
+Talk to Leitus after ^xAF6025Executioner^7 fight for level 5 skill gem in town = ^x8888FFPerfect Strike^7.
+Support Gem = ^x8888FFOverpower^7 in ^x8888FFRolling Sla^7^x8888FFm^7, might not use right away.
+
+^x70FF70Ramparts^7: Hanged Man Support Gem = Window of Opportunity in Perfect Strike
+Want to be level 13 before ^x70FF70Manor^7 enter.
+
+^x70FF70Manor^7: Find ^xAF6025Candlemass^7 WP on 1st floor. Then head towards ^xAF6025Count^7, enter boss arena at level 14. Get a free ^x8888FFPerfect Strike^7 off on both phases.
+TP out after ^xAF6025Count^7 fight, WP to ^x70FF70Manor^7, CP to ^xAF6025Candlemass^7, get free ^x8888FFPerfect Strike^7 off, CP back to ^xAF6025Count^7 for loot + use same portal out. 
+This skips waiting for the 45 second ^xAF6025Count^7 post-death YAP, done fast you&apos;re back as the loot drops.
+
+^xD02090Act 2^7: More flexibility for returning to town to insure a minimum amount of damage on weapon / resistance gear. 20%+ fire/lightning is good enough, 40%+ either is amazing.
+Cold res is not a priority at all.
+
+^xADAA47Regex^7: &quot;(fi|li).+res|speed|s: tw|ed bl|um li|ed.+rec&quot;
+
+^x70FF70Outskirts^7: Good zone for exping, hug a wall till ^xAF6025Rathbreaker^7 alley. Be level 15-16.
+^x70FF701st Town^7: Check for good ^xFFFF77Studded Greatclub^7, 40% idp is plenty good. A good ^xFFFF77Forge Maul^7 is also plenty for now.
+
+^x70FF70Halani Gates 1.0^7: Can go back as soon as quest state pops up on screen, don&apos;t need to talk to Asala. Portal out
+
+^x70FF70Mawdun Quarry^7: Group together big packs of mobs in 2 open areas. Cross bridges at CPs. Be level 16-17.
+
+^x70FF70Mawdun Mines^7: Boss arena always at the Northmost point in the zone. Good time to fish for Studded Greatclub
+There is a resettable champ pack, but it&apos;s not consistently good, depends on instance. Bad packs are 2-3 blue monsters, and good packs are always 5+ blue monsters.
+
+^x70FF70Traitor&apos;s Passage 1.0^7: Unless you get an early Six Sisters layout, ^xAF6025Balbala^7 and ^x70FF70Halani Gates^7 entrance will be after the Six Sisters CP.
+Notes on the wall indicates which way ^xAF6025Balbala^7 is, go to fight ^xAF6025Jamanra^7 first, then you&apos;ll return to fight ^xAF6025Balbala^7.
+Good zone for exp.
+Notes on the wall
+
+^x70FF70Halani Gates 2.0^7: Need to clear all monsters near each gate mechanism for Asala to turn it. 
+Can leave her as soon as the 1st door opens if you reset at CP near the ^xB97123Forward Command Camp^7 to get her back next to you.
+Kill rare for a 100% chance drop of a rare weapon.
+After 2nd bridge, there&apos;s a CP and a pack of statues that gives 9%-10% exp at level 18/19. Reset in mass here to hit level 20 if not caught up.
+^xAF6025Jamanra^7 drops no loot.
+CP to WP&apos;s CP, enter ^x70FF70Traitor&apos;s Passage^7 again.
+
+^x70FF70Traitor&apos;s Passage 2.0^7: CP to Six Sisters CP, go down area with notes on the wall to search for ^xAF6025Balbala^7. Important to fight her at level 20 because she is evasive, and you allocate Resolute Technique at level 20.
+
+^xD02090Zone Levels in Act 2^7: Similar to the cemetery zone trick to do both at level 9, you can use a similar trick to fight act 2 bosses at a lower level. 
+The goal is to fight the duo boss in ^x70FF70The Bone Pits^7 at level 24, ^xAF6025Zalmarath, The Colossus^7 at level 25, and^xAF6025 Azarian^7 at level 27.
+^xD02090
+Optimal Pathing^7: ^x70FF70Keth^7 -&gt; ^x70FF70The Lost City^7 -&gt; ^x70FF70Buried Shrines^7 WP
+Grab +2 points from ^xAF6025Kabala^7 in ^x70FF70Keth^7
+^x70FF70Mastodon Badlands^7 -&gt; ^x70FF70The Bone Pits^7 WP, you will be returning to this instance after grabbing the second titan zone WP.
+^x70FF70Valley of the Titans^7 -&gt; ^x70FF70The Titan Grotto^7 WP, you will be returning to this instance after the duo bonezone bosses.
+^x70FF70The Bone Pits ^xC8C8C8^7boss fight^7^7^7 -&gt; ^x70FF70The Titan Grotto^7 boss fight -&gt;^x70FF70 Buried Shrines^7, hugging North wall for free resistance ring, and boss fight. ^xAF6025
+Azarian^7 does not fight back for a while, be sure to not damage him with anything, but a ^x8888FFPerfect Strike^7 for first tick of damage against him.
+
+Relics drop from hyenas in the bone zones, and snakes in the Keth line, turn them in at the WP in ^x70FF70Valley of the Titans^7. 
+If they don&apos;t drop on the way, might need to reset at CP to farm a couple mobs.
+
+^xD02090Level Targets^7: 22 by ^x70FF70Buried Shrines^7 WP, 23 by ^x70FF70The Titan Grotto^7 WP. Skip killing after level 23 outside of relic farming.
+
+^xD02090Skill Gems^7: Level ^x8888FFPerfect Strike^7 first, ^x8888FFBoneshatter^7 gets next levels if more skill gems drop.
+Support gems, get Unbreakable, first for ^x8888FFRolling Slam^7, and then ^x8888FFLeap Slam^7 when ^x8888FFOverpower^7 isn&apos;t needed to prime ^x8888FFBoneshatter^7 procs.
+1st Level 7 skill gem = ^x8888FFLeap Slam^7, socket in ^x8888FFMartial Tempo^7 and ^x8888FFUnbreakable^7 / ^x8888FFOverpower^7 when needed. Keep ^x8888FFLeap Slam^7 at level 7 
+If you need to level ^x8888FFLeap Slam^7 up for increased stun buildup, hold onto the level 7 version, you will need it later.
+
+^xD02090Leap Slamming^7:^x8888FF Leap Slam^7 in weapon swap 1 is used with your 2 hander to prime ^x8888FFBoneshatter^7. 
+Manually swap between 2 hander setup to prime Boneshatter and 1 hander setup to leap through zones. Tap ^x8888FFRaise Shield^7 at the end of leap slam to cancel the landing lag.
+Until you can handle ^xE05030Giant&apos;s Blood^7 to leap slam 2 hander with a shield, you must roll out of every leap slam to deal with the landing lag.
+
+^xADAA47Best APS 1 hander is the Slim Mace base.^7
+
+^xD02090Horn Crafted^7: Travel to ^x70FF70Halani Gates^7 with the caravan to blow the horn, unlocks ^x70FF70Deshar^7 on the map.
+
+^x70FF70Deshar^7: ^xB97123The Final Letter^7 (corpse for +2 skill points) will spawn on the south side of any building. Exit has unique lanterns next to it along far wall.
+Good zone for exp, be level 24-25 on zone exit.
+
+^x70FF70Path of the Mourning^7: Bad zone for exp, leap through, kill big packs as they come through.
+
+^x70FF70Spires of Deshar^7: Good zone for exp, look for ^xB97123+^xB9712310% lightning res^7 onroute to boss, can search other side of zone after grabbing boss CP.
+
+^x70FF70Dreadnought^7: Zoom through towards final CP near the double blue pack. Which packs can spawn are based upon instance. 
+Worst packs are casters with small bugs, and big bugs. The best instances give juicy Faridun &amp; crawler packs all the time.
+Farm to 31/32 here, check vendor every level to shore up gear if needed. 
+Goal is 30%+ fire/lightning resist, ^xB97123Steel Plate^7 chest, ^xB97123Temple Maul^7 with + dmg (40-60% ipd or 1 good flat dmg roll is plenty). ^xB97123Plate Belts^7 are wicked good.
+A ^xB97123Collosal Life Flask^7 with increased amount recovered is incredibly good.
+Do not throw this ^xC8C8C8^xB97123Temple Maul^7^7 away when you upgrade, you will need it handy at level 33 weapon upgrade if it&apos;s too good.
+A ^xB97123Shield^7^7^7 with increased block chance + resistance is ideal on a blue item.
+
+^xADAA47Go back to finish ^x70FF70Trial of The Sekemas^7 ^xADAA47now if you haven&apos;t done so already.^7^7
+
+^x70FF70Dreadnought Vanguard^7: Zoom through to ^xAF6025Jamanra^7 with shield setup.
+
+^xD02090Act 3^7:
+
+^x70FF70SandSwept Marshes^7: Kill the twin rares alongside Town Entrance wall across a bridge. Chest is lootable upon 1 of them being killed. 
+^xB97123Hanging Tree^7 drops a random ^x8888FFMagic Ring^7, but not the best bases (^x8888FFRuby/Topaz^7).
+
+^x70FF701st Town^7: Check for ^xB97123Leaden Greathammers^7, this is the all in weapon. A good ^xB97123Leaden Greathammer^7 will be fine until t5+ maps. 200 phys top end is plenty, IAS will be ideal.
+Vendor fish every level.
+
+^x70FF70Jungle Ruins^7: ^xB97123Jungle Grave^7 reward includes a ^xFFFF77Rare Rawhide Belt^7.
+^xD02090^xAF6025Mighty SilverFist^7^7 guards the exit.
+
+^x70FF70The Venom Crypts^7: Take the increased ^xB97123Stun Threshold^7.
+
+^x70FF70Infested Barrens^7: Want to find WP (along the wall with water).
+Find ^x70FF70Azak Bog^7 and ^x70FF70Chimeral Wetlands^7, enter both to get WP and then travel back to ^x70FF70Azak Bog^7.
+
+^x70FF70Azak Bog^7: At the CP in the middle of the zone with the effigies to burn, you can reset at mass here. You&apos;ll often get a blue &amp; a rare pack. 
+Farm up to level 37 at most here while fishing for items from vendor.
+The goal will be to end act 3 around level 39-40. Waterways &amp; Goliath farming should be enough with minimal exping along the rest of the way.
+
+^xAF6025Ignagduk&apos;s^7 arena is always in the NE of the zone.
+
+A South East \ North West facing entrance means her arena points inwards.
+A North East / South West facing entrance means her arena points outwards.
+
+Slot in ^x8888FFCannibalism^7 to ^x8888FFHerald of Ash^7 or whichever aura you&apos;re using, it is huge for sustain.
+
+^x70FF70Chimeral Wetlands^7: Wall hug to ^x70FF70The Trial of Chaos^7/^xAF6025Chimera^7, CP back to WP CP to hug other way to the other. Be sure to grab ^x70FF70The Trial of Chaos^7 WP.
+
+^x70FF70^7^xD02090Soul Core Mechanics^7: Soul cores are visible on explored parts of your map from quite a bit away. Their locations change each time you reset at checkpoint.
+All soul cores respawn upon reset, even if one of them has been &quot;used&quot;. This is most useful in ^x70FF70Jiquani&apos;s Sanctum^7.
+
+^x70FF70Jiquani&apos;s Machinarium^7^7: Explore down a side, reset at checkpoint to avoid back tracking and look in areas where we now soul cores aren&apos;t. 
+It is possible for no soul cores to spawn in 1st area, hence the resetting.
+Need to pick up 2 soul cores after activating the 1st stone altar. 1 for exit and 1 to fight ^xAF6025Blackjaw^7. Open exit first to grab CP. Can reset for cores if needed.
+^xAF6025Blackjaw^7 will be in the far end of the zone alongside the same wall as the exit.
+
+^x70FF70Jiquani&apos;s Sanctu^7^x70FF70m^7: ^xB97123Paquate&apos;s Mechanism^7 is between the two generators if you have a corruption candidate.
+Optimal pathing is to rush 1 CP at a generator, portal out, doing /hideout (pre-type while portaling) take WP back to the sanctum.
+Doing so avoids the layouts where the middle doesn&apos;t connect up.
+Then you&apos;ll rush the other CP at the 2nd generator.
+In the case where you get a soul core on the way to 1st generator, you&apos;ll slot it in and reset at checkpoint to spawn both soul cores again, before portaling out.
+Explore the map around the checkpoint and then mass reset for the soul core to spawn visible on your map. After you put the 2nd one in, reset at checkpoint.
+This reset at checkpoint sends the generator energy all the way to Zicoatl, allowing you to skip the waiting period. Do the same portal out -&gt; /hideout -&gt; WP routine.
+
+
+^x70FF70The Matlan Waterways^7: 13 levers, kill packs with 2hander leap slam + boneshatter, swap to shield setup when pulling levers. 
+1k+ armour builds can get away with not killing most packs and just tanking, but the exp is good and safer.
+
+^x70FF70The Drowned City^7: Zone follows reliable generation rules, zoom through to Apex of Filth, make sure to grab WP.
+
+^x70FF70Apex of Filth^7: Follow inside wall to ^xAF6025The Queen of Filth^7.
+
+^x70FF70Temple of Kopec^7: 1st floor door can be in any corner. Can jump over certain broken sections of walls.
+2nd floor cross full gap from center to wall to door.
+You can portal out the second Alva says, &quot;Wait,&quot; to skip the animation of the platform rising up.
+
+^x70FF70Uztaal^7: Follows predictable
+Dangerous zone, some cold res can feel good here to avoid eating random freezes. Atleast kill packs with Vaal Goliaths as you try to get ^xB97123Sacrificial Heart^7.
+
+^x70FF70Aggorat^7: Predictable layout. Find WP near exit, than CP near ^xB97123Sacrificial Altar^7.
+Farm Goliaths as needed
+
+^x70FF70The Black Chambers^7: Predictable layout, essentially symmetrical down the middle.
+Rush to Doryani and beware the lasers from the middle.
+Phase him quickly to avoid the lasers shooting out of the middle phase.
+
+^xD02090Act 1 Cruel^7: Kill ^xAF6025Beira^7 onroute to ^x70FF70The Red Vale^7.
+
+^xD02090Red Vale Farming^7: Obelisks spawn only blue monsters, it appears as the 1st obelisk spawns the most amount of blue monsters.
+The ideal way to farm is to kill nearly all the blue monsters, and then reset at checkpoint in mass for exp. 
+This is a good opportunity to shore up resistances where needed by vendor fishing.
+You can farm up to level 47-48 here.
+Once you leave here, you can just finish the rest of campaign without stopping to farm again, just kill as you go and head straight to maps.
+Prioritize fire &amp; lightning resistance and keep cold resistance shored up atleast. 30% all will be fine, but you&apos;ll want them fixed by maps.
+
+^xADAA47Go back to finish ^x70FF70The Trial of Chaos^7 ^xADAA47if you haven&apos;t already.^7^7
+
+^xADAA47You can also farm ^x70FF70Azak Bog^x70FF70 ^xADAA47in act 3 cruel and skip killing anything the entire way there so long you hit level 51-52.
+	</Notes>
+	<Skills sortGemsByDPSField="CombinedDPS" activeSkillSet="1" sortGemsByDPS="true" defaultGemQuality="0" defaultGemLevel="normalMaximum" showSupportGemTypes="ALL">
+		<SkillSet id="1"/>
+	</Skills>
+	<Calcs>
+		<Input name="misc_buffMode" string="EFFECTIVE"/>
+		<Input name="skill_number" number="1"/>
+		<Section subsection="ViewSkillDetails" collapsed="false" id="SkillSelect"/>
+		<Section subsection="SkillHitDamage" collapsed="false" id="HitDamage"/>
+		<Section subsection="ExertingWarcries" collapsed="false" id="Warcries"/>
+		<Section subsection="SkillDamageoverTime" collapsed="false" id="Dot"/>
+		<Section subsection="AttackCastRate" collapsed="false" id="Speed"/>
+		<Section subsection="Crits" collapsed="false" id="Crit"/>
+		<Section subsection="Impale" collapsed="false" id="Impale"/>
+		<Section subsection="SkilltypespecificStats" collapsed="false" id="SkillTypeStats"/>
+		<Section subsection="Accuracy" collapsed="false" id="HitChance"/>
+		<Section subsection="Bleed" collapsed="false" id="Bleed"/>
+		<Section subsection="Poison" collapsed="false" id="Poison"/>
+		<Section subsection="Ignite" collapsed="false" id="Ignite"/>
+		<Section subsection="Decay" collapsed="false" id="Decay"/>
+		<Section subsection="LeechGainonHit" collapsed="false" id="LeechGain"/>
+		<Section subsection="NonDamagingAilments" collapsed="false" id="EleAilments"/>
+		<Section subsection="OtherEffects" collapsed="false" id="MiscEffects"/>
+		<Section subsection="Attributes" collapsed="false" id="Attributes"/>
+		<Section subsection="Life" collapsed="false" id="Life"/>
+		<Section subsection="Mana" collapsed="false" id="Mana"/>
+		<Section subsection="Spirit" collapsed="false" id="Spirit"/>
+		<Section subsection="EnergyShield" collapsed="false" id="EnergyShield"/>
+		<Section subsection="Resists" collapsed="false" id="Resist"/>
+		<Section subsection="Armour" collapsed="false" id="Armour"/>
+		<Section subsection="Evasion" collapsed="false" id="Evasion"/>
+		<Section subsection="DamageAvoidance" collapsed="false" id="DamageAvoidance"/>
+		<Section subsection="Block" collapsed="false" id="DamageAvoidance"/>
+		<Section subsection="Dodge" collapsed="false" id="DamageAvoidance"/>
+		<Section subsection="SpellSuppression" collapsed="false" id="DamageAvoidance"/>
+		<Section subsection="Flasks" collapsed="false" id="Flasks"/>
+		<Section subsection="UtilityFlasks" collapsed="true" id="Flasks"/>
+		<Section subsection="LifeFlasks" collapsed="true" id="Flasks"/>
+		<Section subsection="ManaFlasks" collapsed="true" id="Flasks"/>
+		<Section subsection="Charms" collapsed="true" id="Flasks"/>
+		<Section subsection="Rage" collapsed="true" id="Rage"/>
+		<Section subsection="Charges" collapsed="true" id="Charges"/>
+		<Section subsection="Endurance" collapsed="true" id="Charges"/>
+		<Section subsection="Frenzy" collapsed="true" id="Charges"/>
+		<Section subsection="Power" collapsed="true" id="Charges"/>
+		<Section subsection="OtherDefences" collapsed="false" id="MiscDefences"/>
+		<Section subsection="StunDuration" collapsed="false" id="MiscDefences"/>
+		<Section subsection="OtherAvoidance" collapsed="true" id="MiscDefences"/>
+		<Section subsection="OtherAilmentDefences" collapsed="true" id="MiscDefences"/>
+		<Section subsection="DamageTaken" collapsed="false" id="DamageTaken"/>
+		<Section subsection="DamagingHits" collapsed="false" id="DamageTaken"/>
+		<Section subsection="EffectiveHealthPool" collapsed="false" id="DamageTaken"/>
+		<Section subsection="MaximumHitTaken" collapsed="false" id="DamageTaken"/>
+		<Section subsection="RecoupandHitTakenOverTime" collapsed="true" id="DamageTaken"/>
+		<Section subsection="DotsandBuildDegens" collapsed="false" id="DamageTaken"/>
+		<Section subsection="EnemyDegens" collapsed="true" id="DamageTaken"/>
+	</Calcs>
+	<TreeView searchStr="" zoomY="-47.817527582541" zoomLevel="9" showStatDifferences="true" zoomX="728.55921879011"/>
+	<Items activeItemSet="1" showStatDifferences="true" useSecondWeaponSet="false">
+		<ItemSet useSecondWeaponSet="false" id="1">
+			<Slot itemPbURL="" name="Gloves" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1" itemId="0"/>
+			<Slot itemPbURL="" name="Flask 1" itemId="0"/>
+			<Slot itemPbURL="" name="Amulet" itemId="0"/>
+			<Slot itemPbURL="" name="Charm 3" itemId="0"/>
+			<Slot itemPbURL="" name="Charm 1" itemId="0"/>
+			<SocketIdURL nodeId="36044" name="Jewel 36044" itemPbURL=""/>
+			<Slot itemPbURL="" name="Flask 2" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2" itemId="0"/>
+			<Slot itemPbURL="" name="Belt" itemId="0"/>
+			<SocketIdURL nodeId="55190" name="Jewel 55190" itemPbURL=""/>
+			<Slot itemPbURL="" name="Weapon 1 Swap" itemId="0"/>
+			<Slot itemPbURL="" name="Ring 2" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour" itemId="0"/>
+			<SocketIdURL nodeId="26725" name="Jewel 26725" itemPbURL=""/>
+			<Slot itemPbURL="" name="Weapon 2 Swap" itemId="0"/>
+			<Slot itemPbURL="" name="Ring 1" itemId="0"/>
+			<Slot itemPbURL="" name="Charm 2" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet" itemId="0"/>
+			<Slot itemPbURL="" name="Boots" itemId="0"/>
+		</ItemSet>
+		<TradeSearchWeights/>
+	</Items>
+	<Config activeConfigSet="1">
+		<ConfigSet title="Default" id="1">
+			<Placeholder name="enemySpeed" number="700"/>
+			<Placeholder name="enemyChaosResist" number="0"/>
+			<Placeholder name="enemyLightningDamage" number="965"/>
+			<Placeholder name="enemyCritChance" number="5"/>
+			<Placeholder name="ShockStacks" number="1"/>
+			<Placeholder name="enemyColdDamage" number="965"/>
+			<Placeholder name="enemyFireDamage" number="965"/>
+			<Placeholder name="enemyLevel" number="82"/>
+			<Placeholder name="multiplierWitheredStackCountSelf" number="15"/>
+			<Placeholder name="enemyColdResist" number="50"/>
+			<Placeholder name="enemyLightningPen" number="3"/>
+			<Placeholder name="enemyLightningResist" number="50"/>
+			<Placeholder name="enemyEvasion" number="843"/>
+			<Placeholder name="enemyPhysicalDamage" number="965"/>
+			<Placeholder name="enemyChaosDamage" number="386"/>
+			<Placeholder name="enemyColdPen" number="3"/>
+			<Placeholder name="enemyDistance" number="25"/>
+			<Placeholder name="enemyFireResist" number="50"/>
+			<Placeholder name="enemyCriticalWeaknessStacks" number="20"/>
+			<Placeholder name="multiplierWarcryUsedRecently" number="1"/>
+			<Placeholder name="sigilOfPowerStages" number="1"/>
+			<Placeholder name="ScorchStacks" number="1"/>
+			<Placeholder name="enemyCritDamage" number="30"/>
+			<Placeholder name="enemyArmour" number="11526"/>
+			<Placeholder name="multiplierStunnedRecently" number="1"/>
+			<Placeholder name="enemyDamageRollRange" number="70"/>
+			<Placeholder name="enemyFirePen" number="3"/>
+			<Placeholder name="ChillStacks" number="1"/>
+		</ConfigSet>
+	</Config>
+</PathOfBuilding2>
