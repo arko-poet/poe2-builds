@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding2>
 	<Mode mode="BUILD">
-		<Arg string="C:/Users/arkad/Documents/Path of Building (PoE2)/Builds/0.4/crimson coach race.xml"/>
-		<Arg string="crimson coach race"/>
+		<Arg boolean="false"/>
+		<Arg string="Unnamed build"/>
 	</Mode>
-	<Accounts lastToken="0b719cb0b7bc5d900613be5df00a38bf61ffe0c5" lastRefreshToken="b1f53ecb3f69900318924e938c8b8dcf3a970e2b" tokenExpiry="1777960179" lastRealm="PoE2"/>
+	<Accounts lastRealm="PoE2" lastToken="19b5385f7c310baca0c4d932348852bd73adc028" lastRefreshToken="b8dc5c5c0ba69609bd0ad1bb4a7cf6a1dc2ee495" tokenExpiry="1779497348"/>
 	<SharedItems/>
-	<Misc connectionProtocol="nil" colorPositive="^x33FF77" colorNegative="^xDD0022" colorHighlight="^xFF0000" invertSliderScrollDirection="false" showThousandsSeparators="true" edgeSearchHighlight="true" thousandsSeparator="," showAllItemAffixes="true" defaultGemQuality="0" defaultCharLevel="1" defaultItemAffixQuality="0.5" defaultItemQuality="20" showTitlebarName="true" dpiScaleOverridePercent="0" showWarnings="true" slotOnlyTooltips="true" notSupportedModTooltips="true" disableDevAutoSave="false" POESESSID="" showFlavourText="true" showAnimations="true" betaTest="false" lastExportWebsite="POBBin" nodePowerTheme="RED/BLUE" buildSortMode="NAME" decimalSeparator="."/>
+	<Misc buildSortMode="NAME" nodePowerTheme="RED/BLUE" colorPositive="^x33FF77" dpiScaleOverridePercent="0" colorNegative="^xDD0022" connectionProtocol="nil" colorHighlight="^xFF0000" showThousandsSeparators="true" edgeSearchHighlight="true" thousandsSeparator="," defaultItemAffixQuality="0.5" decimalSeparator="." defaultGemQuality="0" defaultCharLevel="1" defaultItemQuality="20" showTitlebarName="true" disableDevAutoSave="false" showWarnings="true" slotOnlyTooltips="true" notSupportedModTooltips="true" invertSliderScrollDirection="false" lastExportWebsite="POBBin" POESESSID="" showFlavourText="true" showAnimations="true" showAllItemAffixes="true" betaTest="false"/>
 </PathOfBuilding2>
