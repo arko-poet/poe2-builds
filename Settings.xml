@@ -4,7 +4,7 @@
 		<Arg boolean="false"/>
 		<Arg string="Unnamed build"/>
 	</Mode>
-	<Accounts lastRealm="PoE2" lastToken="19b5385f7c310baca0c4d932348852bd73adc028" lastRefreshToken="b8dc5c5c0ba69609bd0ad1bb4a7cf6a1dc2ee495" tokenExpiry="1779497348"/>
+	<Accounts lastToken="46c2e6da99b58d84bc0370b18891b328f2040d58" lastRefreshToken="a6711797465c037ea9cc96b5c64becc2123d919b" tokenExpiry="1780376169" lastRealm="PoE2"/>
 	<SharedItems/>
-	<Misc buildSortMode="NAME" nodePowerTheme="RED/BLUE" colorPositive="^x33FF77" dpiScaleOverridePercent="0" colorNegative="^xDD0022" connectionProtocol="nil" colorHighlight="^xFF0000" showThousandsSeparators="true" edgeSearchHighlight="true" thousandsSeparator="," defaultItemAffixQuality="0.5" decimalSeparator="." defaultGemQuality="0" defaultCharLevel="1" defaultItemQuality="20" showTitlebarName="true" disableDevAutoSave="false" showWarnings="true" slotOnlyTooltips="true" notSupportedModTooltips="true" invertSliderScrollDirection="false" lastExportWebsite="POBBin" POESESSID="" showFlavourText="true" showAnimations="true" showAllItemAffixes="true" betaTest="false"/>
+	<Misc connectionProtocol="nil" colorHighlight="^xFF0000" betaTest="false" showThousandsSeparators="true" edgeSearchHighlight="true" thousandsSeparator="," invertSliderScrollDirection="false" decimalSeparator="." defaultItemAffixQuality="0.5" defaultItemQuality="20" showTitlebarName="true" dpiScaleOverridePercent="0" showWarnings="true" slotOnlyTooltips="true" migrateAugments="true" notSupportedModTooltips="true" showFlavourText="true" showAnimations="true" showAllItemAffixes="true" disableDevAutoSave="false" lastExportWebsite="POBBin" buildSortMode="NAME" defaultCharLevel="1" nodePowerTheme="RED/BLUE" defaultGemQuality="0" colorPositive="^x33FF77" colorNegative="^xDD0022"/>
 </PathOfBuilding2>
