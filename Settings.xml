@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding2>
-	<Mode mode="BUILD">
+	<Mode mode="LIST">
 		<Arg boolean="false"/>
-		<Arg string="Unnamed build"/>
+		<Arg string="0.5/"/>
 	</Mode>
-	<Accounts lastToken="46c2e6da99b58d84bc0370b18891b328f2040d58" lastRefreshToken="a6711797465c037ea9cc96b5c64becc2123d919b" tokenExpiry="1780376169" lastRealm="PoE2"/>
+	<Accounts lastToken="53d35c2e23514216c46ccbb2061441d23f7c662f" lastRefreshToken="4a1ebafe5ea339bbbc5102b4bfcedb43e14ea9fd" tokenExpiry="1780944970" lastRealm="PoE2"/>
 	<SharedItems/>
-	<Misc connectionProtocol="nil" colorHighlight="^xFF0000" betaTest="false" showThousandsSeparators="true" edgeSearchHighlight="true" thousandsSeparator="," invertSliderScrollDirection="false" decimalSeparator="." defaultItemAffixQuality="0.5" defaultItemQuality="20" showTitlebarName="true" dpiScaleOverridePercent="0" showWarnings="true" slotOnlyTooltips="true" migrateAugments="true" notSupportedModTooltips="true" showFlavourText="true" showAnimations="true" showAllItemAffixes="true" disableDevAutoSave="false" lastExportWebsite="POBBin" buildSortMode="NAME" defaultCharLevel="1" nodePowerTheme="RED/BLUE" defaultGemQuality="0" colorPositive="^x33FF77" colorNegative="^xDD0022"/>
+	<Misc colorPositive="^x33FF77" colorNegative="^xDD0022" migrateAugments="true" colorHighlight="^xFF0000" showThousandsSeparators="true" edgeSearchHighlight="true" thousandsSeparator="," betaTest="false" defaultGemQuality="0" defaultCharLevel="1" defaultItemAffixQuality="0.5" defaultItemQuality="20" showTitlebarName="true" dpiScaleOverridePercent="0" showWarnings="true" connectionProtocol="nil" notSupportedModTooltips="true" invertSliderScrollDirection="false" disableDevAutoSave="false" showFlavourText="true" showAnimations="true" showAllItemAffixes="true" slotOnlyTooltips="true" lastExportWebsite="POBBin" buildSortMode="NAME" decimalSeparator="." nodePowerTheme="RED/BLUE"/>
 </PathOfBuilding2>
